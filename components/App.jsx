@@ -8,6 +8,7 @@ class App extends React.Component {
 			list : [1,2,3]
 		}
 	}
+	
 
 	handleClick(){
 		alert('hola ')
